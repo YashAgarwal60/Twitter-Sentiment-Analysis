@@ -1,0 +1,11 @@
+Paste the NarendraModi Data into C: drive
+
+check the paths of images
+
+the library used in this project are --
+
+tweepy
+textblob
+PIL -- Pillow
+Pandas
+Numpy
